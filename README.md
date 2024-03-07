@@ -34,7 +34,7 @@ pero para interactuar con estos metodos primero toca logearnos con un usuario y 
 importar la configuracion de postman para hacer las diferentes peticiones que maneja la apliacion 
 para ello deje un archivo llamado customer.postman_collection.json en el repositorio
 teniendo instalado previamente postman selecionaos el boton de import para imporatar la coniguracion
-![configuracion]([URL_de_la_imagen](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/importar%20configuracion%20postman.png))
+![configuracion](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/importar%20configuracion%20postman.png)
 
 se nos abrira una ventan donde tenemos que seleccionar el archivo de configuracion llamado customer.postman_collection.json 
 ![configuracion2](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/importar%20configuracion%20postman%202.png)
@@ -56,11 +56,11 @@ en caso que no lo colequemos o lo coloquemos mal nos arrojara un error 401 que e
  y  ya con esto es replicarlo en cada uno de los metodos que aparecen disponibles en la carpeta de customers 
 
 # crearPost
-![crearPost](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/crearPost.PNGn)
+![crearPost](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/crearPost.PNG)
 # eliminar Post 
 ![eliminar Post](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/deletePost.PNG)
 # actualizar  Post 
-![actualizar post]([URL_de_la_imagen](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/UpdatePost.PNG)https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/UpdatePost.PNG)
+![actualizar post](https://raw.githubusercontent.com/stivenlaiton20/Customer-int/main/UpdatePost.PNG)
 
 
 
